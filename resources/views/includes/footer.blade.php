@@ -1,0 +1,1 @@
+<footer id="copyright text-right">© Copyright 2021 Le Bon Coin</footer>
